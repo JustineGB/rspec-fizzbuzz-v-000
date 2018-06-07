@@ -4,6 +4,11 @@ def fizzbuzz(input)
 end
 
 
+fizzbuzz(3) = "Fizz"
+
+Fizzbuzz(5) = "Buzz"
+
+
 describe "fizzbuzz" do
   it 'returns "Fizz" when the number is divisible by 3' do
     fizz_3 = fizzbuzz(3)
