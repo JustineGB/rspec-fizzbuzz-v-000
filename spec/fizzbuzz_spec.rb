@@ -1,9 +1,8 @@
 require_relative './spec_helper.rb'
 
-def fizzbuzz(3) = "Fizz"
+def fizzbuzz(input)
 end
-def fizzbuzz(5) = "Buzz"
-end
+
 
 describe "fizzbuzz" do
   it 'returns "Fizz" when the number is divisible by 3' do
