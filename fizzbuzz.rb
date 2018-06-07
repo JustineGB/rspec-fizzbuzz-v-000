@@ -7,5 +7,5 @@ elsif int % 3 == 0
   print "Fizz"
   end
 else
-  puts nil
+  print nil
 end
