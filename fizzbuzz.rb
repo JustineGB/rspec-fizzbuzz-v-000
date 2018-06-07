@@ -9,16 +9,3 @@ else
   puts nil
   end
 end
-  
-  
-  "Fizz"
-  
-elsif int % 5 == 0
-  "Buzz"
-
-elsif int % 15 == 0
-  "FizzBuzz"
-
-fizz_3 = "Fizz"
-fizz_5 = "Buzz"
-fizz_15 = "FizzBuzz"
