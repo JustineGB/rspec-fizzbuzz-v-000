@@ -6,4 +6,6 @@ elsif int % 5 == 0
 elsif int % 3 == 0
   puts "Fizz"
   end
+else
+  puts nil
 end
