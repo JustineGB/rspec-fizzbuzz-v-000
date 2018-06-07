@@ -1,6 +1,7 @@
 require_relative './spec_helper.rb'
 
 def fizzbuzz(3) = "Fizz"
+end
 def fizzbuzz(5) = "Buzz"
 end
 
