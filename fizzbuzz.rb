@@ -1,5 +1,6 @@
 def fizzbuzz(int)
-if fizzbuzz(3) == "Fizz"
-elseif fizzbuzz(5) == "Buzz"
-elseif fizzbuzz(3, 5) = "Fizzbuzz"
 end
+
+fizzbuzz(3) == "Fizz"
+fizzbuzz(5) == "Buzz"
+fizzbuzz(3, 5) = "Fizzbuzz"
